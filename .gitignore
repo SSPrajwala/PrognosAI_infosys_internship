@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+#large files
+outputs/FD001/sequences_train.npy
+outputs/FD002/sequences_train.npy
+outputs/FD003/sequences_train.npy
+outputs/FD004/sequences_train.npy
